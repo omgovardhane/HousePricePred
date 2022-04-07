@@ -61,7 +61,7 @@ df_test.count()
 # In[7]:
 
 
-len(df_train.columns)
+len(df_train.columns) omkar
 
 
 # In[8]:
